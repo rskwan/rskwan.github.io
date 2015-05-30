@@ -3,12 +3,19 @@ title: Pearl Milk Tea (PMT)
 layout: page
 ---
 
+## Contents
+
+1. [Introduction](#introduction)
+2. [Making PMT](#making-pmt)
+3. [Evaluation](#evaluation)
+4. [Reviews](#reviews)
+
 ## Introduction
 
 [Pearl milk tea](https://en.wikipedia.org/wiki/Bubble_tea) (PMT) is
 a drink from Taiwan, especially popular in communities with a significant
 number of Asian people, including Fremont, CA (where I grew up) and
-Berkeley, CA (where I went to college). It is also called any of
+Berkeley, CA (where I went to college). It can be called any of
 
 * boba
 * boba tea
@@ -25,7 +32,7 @@ in my experience. Meanwhile, "bubble tea" appears to be the usual name
 on the east coast (or at least in Pittsburgh and Atlanta, where I've
 consumed PMT myself).
 
-## Ingredients and Preparation
+## Making PMT
 
 The basic ingredients of PMT are milk, tea, and tapioca pearls (aka boba).
 It is usually served chilled, though many PMT-serving establishments do serve
@@ -55,7 +62,7 @@ This may seem somewhat simple to one with some basic cooking skills, but the
 difficulty is in the details (e.g. how long to boil the pearls, the correct
 ratios of milk, tea, and sugar), and not all PMT is good, as we discuss next.
 
-## Evaluating PMT
+## Evaluation
 
 I have consumed a number of PMT drinks from many restaurants, cafes, and tea
 shops over the years. My criteria for judging PMT include
@@ -91,14 +98,14 @@ end up being very bland from not making the tea strong enough or adding too much
 It could also be too sweet or not sweet enough, from adding too much or too little sugar.
 In my opinion, most tea shops tend to make their milk tea too sweet. While some
 may shrug it off or even prefer it when the milk tea is very sweet, it can ruin
-the tea completely, often masking the flavor of the tea. (Of course, another
-error is using powder, which completely invalidates the PMT.)
+the tea completely, often masking the flavor of the tea.
 
-While it may seem that I'm rather picky, there are some good PMT drinks out there,
-and many acceptable ones. PMT fails only when one or more of these criteria
-are completely off.
+While it may seem that I'm rather picky, there are decent PMT drinks out there.
+PMT fails only when one or more of these criteria are completely off.
 
-## Reviews (under construction)
+## Reviews
+
+_Under construction._
 
 In the past couple of years, I've visited a number of places
 that serve PMT, usually evaluating the standard PMT (black milk tea with tapioca pearls,
