@@ -4,7 +4,7 @@ layout: page
 ---
 
 Currently, I am focused on machine learning and computational statistics,
-and especially their applications in biology, cognitive science, and neuroscience. 
+especially their applications in biology and neuroscience.
 
 ## Projects (under construction)
 
