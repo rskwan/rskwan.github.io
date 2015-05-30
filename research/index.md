@@ -3,14 +3,12 @@ title: Research
 layout: page
 ---
 
-## Interests
-
 Currently, I am focused on machine learning and computational statistics,
 and especially their applications in biology, cognitive science, and neuroscience. 
 
 ## Projects (under construction)
 
-### Network analysis of functional connectivity via fMRI
+### Statistical network analysis of functional connectivity via fMRI
 _Collaborators: Cosma Shalizi_
 
 ### Models of wishful thinking in Markov decision processes
