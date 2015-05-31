@@ -120,7 +120,7 @@ I'll have more PMT reviews posted here.
 ### Atlanta
 
 I've compiled my reviews of PMT in and around Atlanta, from the summer of 2014,
-[on one page here]({{ "atl" | prepend:site.baseurl }}). The places I reviewed were
+[on one page here]({{ "atl/" | prepend:site.baseurl }}). The places I reviewed were
 
 1. Kung Fu Tea
 2. Sweet Hut
@@ -136,4 +136,5 @@ _Under construction._
 
 ### Pittsburgh
 
-_Under construction._
+My second summer PMT adventure, this time in Pittsburgh, is currently in progress,
+and I'm documenting it [here]({{ "pgh/" | prepend:site.baseurl }}).
