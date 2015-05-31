@@ -6,7 +6,7 @@ title: "PMT in Pittsburgh, Part 1: Introduction and Lulu's Noodles"
 [Check out the rest!]({{ "/pmt/pgh/" | prepend:site.baseurl }}))
 
 The summer PMT adventures begin again in Pittsburgh! Last summer, I took a bit of
-tour of PMT-serving establishments
+a tour of PMT-serving establishments
 [in and around Atlanta]({{ "/pmt/atl/" | prepend:site.baseurl }})
 while I was participating in a summer research program. Now, I'm a summer
 researcher at CMU, and I'm going on another quest for PMT. This time around,
