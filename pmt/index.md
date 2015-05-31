@@ -9,6 +9,9 @@ layout: page
 2. [Making PMT](#making-pmt)
 3. [Evaluation](#evaluation)
 4. [Reviews](#reviews)
+    * [Atlanta](#atlanta)
+    * [Bay Area](#bay-area)
+    * [Pittsburgh](#pittsburgh)
 
 ## Introduction
 
@@ -112,4 +115,25 @@ that serve PMT, usually evaluating the standard PMT (black milk tea with tapioca
 regular sweetness). Their locations include the San Francisco Bay Area
 (SF, Berkeley, Palo Alto, Fremont, Newark), Atlanta (Doraville and Midtown), and
 Pittsburgh (Oakland and Squirrel Hill). In (hopefully) the near future,
-I'll have some PMT reviews posted here.
+I'll have more PMT reviews posted here.
+
+### Atlanta
+
+I've compiled my reviews of PMT in and around Atlanta, from the summer of 2014,
+[on one page here]({{ "atl" | prepend:site.baseurl }}). The places I reviewed were
+
+1. Kung Fu Tea
+2. Sweet Hut
+3. Quickly
+4. Paris Baguette
+5. Milano Bakery
+6. Honey Bits
+7. Honey Bubble
+
+### Bay Area
+
+_Under construction._
+
+### Pittsburgh
+
+_Under construction._
