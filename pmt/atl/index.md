@@ -34,7 +34,7 @@ out of the ones I tasted in Atlanta, and Sweet Hut became my regular spot for
 getting PMT, as well as getting pastries and doing work (given the free WiFi).
 Since then, it looks like a Sweet Hut has opened in Midtown, not too far from the
 Georgia Tech campus. Should I visit Atlanta again, I'd like to head over there
-and see if it matches up with the PMT at this Sweet Hut.
+and see if it matches up with the PMT at the Sweet Hut on Buford Highway.
 
 ### Index
 

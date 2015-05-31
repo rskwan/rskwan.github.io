@@ -1,9 +1,7 @@
 ---
 title: "PMT in Pittsburgh, Part 1: Introduction and Lulu's Noodles"
+date: 2015-05-31 14:55 -0500
 ---
-
-(Part 1 of my PMT adventures in Pittsburgh.
-[Check out the rest!]({{ "/pmt/pgh/" | prepend:site.baseurl }}))
 
 The summer PMT adventures begin again in Pittsburgh! Last summer, I took a bit of
 a tour of PMT-serving establishments
@@ -27,5 +25,8 @@ chewy consistency and not much flavor.
 Overall, this drink was fairly mediocre, though not the worst PMT out there. I wouldn't
 bother getting PMT at Lulu's again, and probably won't bother getting food there
 either.
+
+_(Part 1 of my PMT adventures in Pittsburgh.
+[Check out the rest!]({{ "/pmt/pgh/" | prepend:site.baseurl }}))_
 
 ![Lulu's Noodles]({{ "/pmt/pgh/01_lulus_noodles.jpg" | prepend:site.baseurl }})
