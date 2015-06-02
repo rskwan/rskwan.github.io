@@ -5,7 +5,7 @@ date: 2015-06-02
 
 Once I'd spent a couple days of wandering around the neighborhood around
 Pitt and CMU, I decided that I needed to find more Asian food. Fortunately,
-the Yelp reviews I'd been browsing gave me hint as to where to go.
+the Yelp reviews I'd been browsing gave me a hint as to where to go.
 There were a good number of Asian restaurants not too far from CMU, located
 several blocks down Forbes in Squirrel Hill, by many accounts a
 more quiet and upscale neighborhood than Oakland (where Pitt and CMU are).
