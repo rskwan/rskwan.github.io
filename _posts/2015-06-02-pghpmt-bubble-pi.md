@@ -11,8 +11,8 @@ several blocks down Forbes in Squirrel Hill, by many accounts a
 more quiet and upscale neighborhood than Oakland (where Pitt and CMU are).
 
 Eager to feast on Asian food more fulfilling than the couple of fiascos
-at [Lulu's]({{ "pghpmt-lulus-noodles" | prepend:site.baseurl }}) and
-[Orient Express]({{ "pghpmt-lulus-noodles" | prepend:site.baseurl }}),
+at [Lulu's]({{ "/blog/pghpmt-lulus-noodles" | prepend:site.baseurl }}) and
+[Orient Express]({{ "/blog/pghpmt-orient-express" | prepend:site.baseurl }}),
 I took the short bus ride down to Forbes and Murray, then proceeded
 down Murray to take a brief tour of the shops and restaurants around.
 After scarfing down a reasonable bibimbap at
