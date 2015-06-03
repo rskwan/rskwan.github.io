@@ -20,3 +20,4 @@ posts here.
 1. [Introduction and Lulu's Noodles]({{ "/blog/pghpmt-lulus-noodles/" | prepend:site.baseurl }})
 2. [Orient Express]({{ "/blog/pghpmt-orient-express/" | prepend:site.baseurl }})
 3. [Bubble Pi]({{ "/blog/pghpmt-bubble-pi/" | prepend:site.baseurl }})
+4. [Rose Tea Caf&eacute;]({{ "/blog/pghpmt-rose-tea-cafe/" | prepend:site.baseurl }})
