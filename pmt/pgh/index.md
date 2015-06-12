@@ -21,3 +21,4 @@ posts here.
 2. [Orient Express]({{ "/blog/pghpmt-orient-express/" | prepend:site.baseurl }})
 3. [Bubble Pi]({{ "/blog/pghpmt-bubble-pi/" | prepend:site.baseurl }})
 4. [Rose Tea Caf&eacute;]({{ "/blog/pghpmt-rose-tea-cafe/" | prepend:site.baseurl }})
+5. [Everyday Noodles]({{ "/blog/pghpmt-everyday-noodles/" | prepend:site.baseurl }})
