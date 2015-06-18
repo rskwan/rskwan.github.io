@@ -3,11 +3,11 @@ title: "Analyzing Department Grade Distributions"
 date: 2014-06-30
 ---
 
-**[The GitHub repo for this project.](https://github.com/rskwan/ucbgrades)** 
+**[The GitHub repo for this project.](https://github.com/rskwan/ucbgrades)**
 
 Inspired by some discussions on the UC Berkeley Class of 2018 page on Facebook, I decided to poke around the grade distributions available on [ScheduleBuilder](https://schedulebuilder.berkeley.edu/). We go straight to some results, sparing most of the technical details; I used Python to do most of the work, and R to produce the plots.
 
-Having scraped all grade distributions available from ScheduleBuilder (only undergraduate grades were released, except apparently for one graduate class), I determined the distribution of grades issued for each department, considering the lower division courses and upper division courses as subsets. For each pairing of department and division, I computed the average grade issued, using A+ = A = 4.0, A- = 3.7, and so on (the rest can be found [here](http://academicservices.berkeley.edu/advising/gpa/)), as well as the total number of grades issued. 
+Having scraped all grade distributions available from ScheduleBuilder (only undergraduate grades were released, except apparently for one graduate class), I determined the distribution of grades issued for each department, considering the lower division courses and upper division courses as subsets. For each pairing of department and division, I computed the average grade issued, using A+ = A = 4.0, A- = 3.7, and so on (the rest can be found [here](http://academicservices.berkeley.edu/advising/gpa/)), as well as the total number of grades issued.
 
 These are collected in [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1ldpJAWT428Pxc7cnnarC6n_KAs7YYVgjR4EZz2dCScE/pubhtml), color-coded using quartiles. Some of the interesting information we can gather from this:
 

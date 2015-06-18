@@ -1,5 +1,5 @@
 ---
-title: "PMT in Pittsburgh, Part 5: Everyday Noodles"
+title: "PMT in Pittsburgh, Part 5: Everyday Noodles and Sichuan Gourmet"
 date: 2015-06-12
 ---
 
@@ -28,7 +28,18 @@ experience, and certainly not worth the $4.50 I paid for it, especially with
 a significantly better candidate (Rose Tea Cafe) right across the street.
 I recommend stopping by here for the food, but definitely not for the PMT.
 
+*Update (June 18)*: After stopping by this place, I also went over to another
+place, [Sichuan Gourmet](http://www.yelp.com/biz/sichuan-gourmet-pittsburgh),
+with pretty much the same story and even the same price for the PMT. Sadly,
+the PMT was pretty much identical to that of Everyday Noodles, so I decided
+a full-fledged review wasn't worth it. I did upload a picture for this post,
+though.
+
 _(Part 5 of my PMT adventures in Pittsburgh.
 [Check out the rest!]({{ "/pmt/pgh/" | prepend:site.baseurl }}))_
 
 ![Everyday Noodles]({{ "/pmt/pgh/05_everyday_noodles.jpg" | prepend:site.baseurl }})
+_The standard PMT at Everyday Noodles._
+
+![Sichuan Gourmet]({{ "/pmt/pgh/05_sichuan_gourmet.jpg" | prepend:site.baseurl }})
+_The standard PMT at Sichuan Gourmet._
