@@ -11,6 +11,9 @@ At this point, I'd been completely hooked on PMT, and thus, as I did
 I began seeking out PMT-serving establishments. Fortunately, this time,
 more places were closer to where I was living (near the CMU and Pitt campuses),
 rendering my second summer PMT adventure much less arduous.
+All in all, I found that there were a couple of middling PMT drinks served
+in this area, but it certainly doesn't hold a candle to the selection offered
+in the Bay Area.
 
 ## Reviews
 
@@ -21,4 +24,5 @@ posts here.
 2. [Orient Express]({{ "/blog/pghpmt-orient-express/" | prepend:site.baseurl }})
 3. [Bubble Pi]({{ "/blog/pghpmt-bubble-pi/" | prepend:site.baseurl }})
 4. [Rose Tea Caf&eacute;]({{ "/blog/pghpmt-rose-tea-cafe/" | prepend:site.baseurl }})
-5. [Everyday Noodles (and Sichuan Gourmet)]({{ "/blog/pghpmt-everyday-noodles/" | prepend:site.baseurl }})
+5. [Everyday Noodles and Sichuan Gourmet]({{ "/blog/pghpmt-everyday-noodles/" | prepend:site.baseurl }})
+6. [Chick'n Bubbly]({{ "/blog/pghpmt-chickn-bubbly/" | prepend:site.baseurl }})
