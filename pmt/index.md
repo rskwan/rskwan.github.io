@@ -136,5 +136,6 @@ _Under construction._
 
 ### Pittsburgh
 
-My second summer PMT adventure, this time in Pittsburgh, is currently in progress,
-and I'm documenting it [here]({{ "pgh/" | prepend:site.baseurl }}).
+My second summer PMT adventure, this time in Pittsburgh, has concluded
+(for the foreseeable future), and was documented
+[here]({{ "pgh/" | prepend:site.baseurl }}).
