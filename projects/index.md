@@ -12,6 +12,10 @@ most of which involve web development in Python and/or JavaScript.
 
 Redesigned the website using ZURB's Foundation front-end framework. Leading development of registration, grading, and problem submission systems, written in Python using Django.
 
+### [BRISTool](http://bristool.herokuapp.com/) ([GitHub](http://github.com/rskwan/bristool))
+
+Single-page web app for performing batch reverse image search, or reverse image search on several images at once, using the Google Images service. Built in JavaScript, using node.js.
+
 ### [NCIndex](http://www.ocf.berkeley.edu/~rkwan/ncindex/) ([GitHub](http://github.com/rskwan/ncindex))
 
 A better interface to UC Berkeley instructor ratings on Ninja Courses, using scraped data. Features a searchable list of instructors and filtering ratings by courses taught. Built with Python, using Flask, BeautifulSoup, and Flask-SQLAlchemy.
