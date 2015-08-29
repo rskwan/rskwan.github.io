@@ -3,7 +3,7 @@ title: R&eacute;sum&eacute;/CV
 layout: page
 ---
 
-Last updated on 2015-05-30.
+Last updated on 2015-08-28.
 
 * [CV [PDF]]({{ "RonaldKwanCV.pdf" | prepend:site.baseurl }})
 * [R&eacute;sum&eacute; [PDF]]({{ "RonaldKwanResume.pdf" | prepend:site.baseurl }})
