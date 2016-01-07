@@ -12,6 +12,10 @@ most of which involve web development in Python and/or JavaScript.
 
 Redesigned the website using ZURB's Foundation front-end framework. Leading development of registration, grading, and problem submission systems, written in Python using Django.
 
+### [UCB Grade Distributions (Revised)](http://projects.dailycal.org/grades/)
+
+Visualization of grade distributions for each department at UC Berkeley from Summer 2007 to Summer 2015. I handled the data retrieval and munging. We built this with Python and JavaScript, using Django on the backend and D3.js for the visualization.
+
 ### [BRISTool](http://bristool.herokuapp.com/) ([GitHub](http://github.com/rskwan/bristool))
 
 Single-page web app for performing batch reverse image search, or reverse image search on several images at once, using the Google Images service. Built in JavaScript, using node.js.
