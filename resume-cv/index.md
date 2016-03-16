@@ -3,7 +3,7 @@ title: R&eacute;sum&eacute;/CV
 layout: page
 ---
 
-Last updated on 2015-12-04.
+Last updated on 2016-03-16.
 
 * [CV [PDF]]({{ "RonaldKwanCV.pdf" | prepend:site.baseurl }})
 * [R&eacute;sum&eacute; [PDF]]({{ "RonaldKwanResume.pdf" | prepend:site.baseurl }})
@@ -21,6 +21,7 @@ Last updated on 2015-12-04.
 | CS 162     | Operating Systems           | Culler                     |
 | CS 164     | Compilers                   | Hilfinger                  |
 | CS 170     | Algorithms                  | Papadimitriou, Raghavendra |
+| CS 186     | Database Systems            | Brewer                     |
 | CS 188     | Artificial Intelligence     | Abbeel                     |
 | CS 189     | Machine Learning            | Efros, Malik               |
 | CS 270     | Graduate Algorithms         | Lau                        |
@@ -29,8 +30,10 @@ Last updated on 2015-12-04.
 | Math H110  | Honors Linear Algebra       | Holtz                      |
 | Math 104   | Real Analysis               | Fuchs                      |
 | Math H113  | Honors Abstract Algebra     | Glick                      |
+| Math 185   | Complex Analysis            | Liu                        |
 | Math 202A  | Topology and Analysis       | Rieffel                    |
 | Stat 134   | Concepts of Probability     | Song                       |
 | Stat 135   | Concepts of Statistics      | Stoyanov                   |
 | Stat 150   | Stochastic Processes        | Sly                        |
+| Stat 151A  | Linear Modelling            | Guntuboyina                |
 | Stat C241A | Statistical Learning Theory | Jordan                     |
