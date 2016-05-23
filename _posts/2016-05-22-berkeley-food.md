@@ -32,6 +32,8 @@ A small friendly restaurant with homestyle Chinese (mostly Sichuan and Cantonese
 
 ![Heat Cafe]({{ "/media/2016-05-22/heat.jpg" | prepend:site.baseurl }})
 
+![Heat Cafe, second photo]({{ "/media/2016-05-22/heat2.jpg" | prepend:site.baseurl }})
+
 ## Japanese
 
 ### CU Sushi
@@ -66,7 +68,7 @@ Asian breads, cakes, pastries, tea, and coffee. The baked goods are the focus he
 ### Bowl'd and Spoon (Korean)
 Both of these are a bit far (Spoon is far west, Bowl'd is on Solano Ave and technically in Albany), but they offer very solid Korean food, especially their bibimbap.
 
-![Bowl'd]({{ "/media/2016-05-22/simplybowl.jpg" | prepend:site.baseurl }})
+![Bowl'd]({{ "/media/2016-05-22/bowld.jpg" | prepend:site.baseurl }})
 
 ### Jayakarta (Indonesian)
 This is the place to go for Southeast Asian food. Service can be somewhat slow, but the food is great. I especially like their nasi lemak.
