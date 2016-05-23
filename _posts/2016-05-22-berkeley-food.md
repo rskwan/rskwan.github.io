@@ -53,7 +53,7 @@ A little crowded and somewhat overhyped, but decent food. It has a hipster vibe 
 ![Imm]({{ "/media/2016-05-22/imm.jpg" | prepend:site.baseurl }})
 
 ### Thai Noodle and Thai Noodle II
-I personally like them more than Imm, since they're open later, usually not as crowded, and the portions are a bit bigger. Everything's good.
+I personally like them more than Imm, since they're open later, they're usually not as crowded, and their portions are a bit bigger. Everything's good.
 
 ![Thai Noodle]({{ "/media/2016-05-22/tn.jpg" | prepend:site.baseurl }})
 
