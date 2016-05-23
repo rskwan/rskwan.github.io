@@ -5,7 +5,7 @@ date: 2016-05-22
 
 While looking back at the photos I'd taken during my time as an undergraduate student at UC Berkeley, I thought it'd be fun to distill the experiences I've had eating at restaurants around Berkeley. So I wrote a couple sentences about each of the places I'm willing to endorse, though I've probably left a few out, and included sample photos where I could.
 
-Side notes: It's pretty clear that I've eaten mostly Asian food, which is completely unsurprising to me. I've also refrained from adding tea shops to the list, since I haven't tried the one that just opened (Tea 1), and I have an explicit ranking for the best ones, which doesn't fit this format.
+_Side notes_: It's pretty clear that I've eaten mostly Asian food, which is completely unsurprising to me. I've also refrained from adding tea shops to the list, since I haven't tried the one that just opened (Tea 1), and I have an explicit ranking for the best ones, which doesn't fit this format.
 
 ## Personal Favorites
 
@@ -25,7 +25,7 @@ Specializes in Sichuan food; the toothpick lamb and boiled fish in hot sauce (wh
 ![Chengdu Style Restaurant]({{ "/media/2016-05-22/chengdu.jpg" | prepend:site.baseurl }})
 
 ### Great China
-Decent if you're looking for a nicer place to eat with your parents or for a date night. Pretty generic choices.
+Decent if you're looking for a nicer place to eat with your parents or for a date night. Pretty generic choices, and not as greasy or salty as many Chinese places.
 
 ### Heat Cafe
 A small friendly restaurant with homestyle Chinese (mostly Sichuan and Cantonese) food. I especially like their mapo tofu, braised pork belly, and Hong Kong milk tea.
@@ -63,7 +63,7 @@ Cheap, greasy food aimed towards students. Their lunch special (when I had class
 ## Other Notable Asian Food
 
 ### 85C Bakery Cafe (Taiwanese)
-Asian breads, cakes, pastries, tea, and coffee. The baked goods are the focus here, but I appreciate their sea salt drinks. Though 85 is more expensive, I definitely like it better than Sheng Kee (one of the other Asian bakeries in town).
+Asian breads, cakes, pastries, tea, and coffee. The baked goods are the focus here, but I appreciate their sea salt drinks. Though 85 is more expensive, I definitely like it better than Sheng Kee (one of the other Asian bakeries in town). Some of the breads aren't great, granted, but my favorites include the Garlic Cheese, Egg Tarts, and the Cranberry Cream Cheese.
 
 ![85C Bakery]({{ "/media/2016-05-22/85.jpg" | prepend:site.baseurl }})
 
@@ -91,7 +91,7 @@ Similar to Boiling Point. Everyone gets their own hot pot with pre-determined in
 ![Tasty Pot]({{ "/media/2016-05-22/tastypot.jpg" | prepend:site.baseurl }})
 
 ### Toss (Fusion)
-Choose a noodle, choose a sauce/soup, and choose a protein. Good for when you just want a big bowl of stir-fried noodles or noodle soup.
+Choose a noodle, choose a sauce/soup, and choose a protein. Good for when you just want a big bowl of stir-fried noodles or noodle soup. (They also have rice, which I haven't tried, but they call themselves a noodle bar, so...)
 
 ![Toss]({{ "/media/2016-05-22/toss.jpg" | prepend:site.baseurl }})
 
