@@ -65,6 +65,8 @@ Cheap, greasy food aimed towards students. Their lunch special (when I had class
 ### 85C Bakery (Taiwanese)
 Asian breads, cakes, pastries, tea, and coffee. The baked goods are the focus here, but I appreciate their sea salt drinks. Though 85 is more expensive, I definitely like it better than Sheng Kee (the other Asian bakery in town).
 
+![85C Bakery]({{ "/media/2016-05-22/85.jpg" | prepend:site.baseurl }})
+
 ### Bowl'd and Spoon (Korean)
 Both of these are a bit far (Spoon is far west, Bowl'd is on Solano Ave and technically in Albany), but they offer very solid Korean food, especially their bibimbap.
 
