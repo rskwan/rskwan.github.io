@@ -110,6 +110,8 @@ Their tri-tip beef and cilantro garlic sauce are amazing. They have a food stand
 ### [Cheese Board Pizza](https://www.yelp.com/biz/cheese-board-pizza-berkeley) and [Sliver](https://www.yelp.com/biz/sliver-pizzeria-berkeley-2)
 Obligatory. Delicious vegetarian pizza. Sliver has a bar and TVs showing sports, while Cheeseboard has live music and a bread/cheese shop.
 
+![Sliver]({{ "/media/2016-05-22/sliver.jpg" | prepend:site.baseurl }})
+
 ### [Endless Summer Sweets](https://www.yelp.com/biz/endless-summer-sweets-berkeley-2)
 Their main feature is the funnel cakes. Guilty pleasure, but they're so, so delicious.
 
