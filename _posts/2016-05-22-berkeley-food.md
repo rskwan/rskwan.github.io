@@ -37,7 +37,7 @@ A small friendly restaurant with homestyle Chinese (mostly Sichuan and Cantonese
 ## Japanese
 
 ### CU Sushi
-A good compromise between the fancier Joshu-ya and the dirt cheap Tako. Standard choices, but well executed.
+A good compromise between the fancier Joshu-ya and the dirt-cheap Tako. Standard choices, executed well.
 
 ### Joshu-ya
 Good sushi rolls and a variety of interesting entrees. More expensive than your standard student-oriented restaurant, but not by much.
@@ -62,8 +62,8 @@ Cheap, greasy food aimed towards students. Their lunch special (when I had class
 
 ## Other Notable Asian Food
 
-### 85C Bakery (Taiwanese)
-Asian breads, cakes, pastries, tea, and coffee. The baked goods are the focus here, but I appreciate their sea salt drinks. Though 85 is more expensive, I definitely like it better than Sheng Kee (the other Asian bakery in town).
+### 85C Bakery Cafe (Taiwanese)
+Asian breads, cakes, pastries, tea, and coffee. The baked goods are the focus here, but I appreciate their sea salt drinks. Though 85 is more expensive, I definitely like it better than Sheng Kee (one of the other Asian bakeries in town).
 
 ![85C Bakery]({{ "/media/2016-05-22/85.jpg" | prepend:site.baseurl }})
 
