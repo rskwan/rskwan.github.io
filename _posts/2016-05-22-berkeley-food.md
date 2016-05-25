@@ -107,6 +107,8 @@ Classic burger joint. It's not In-N-Out, but the burgers are good in their own w
 ### [Brazil Cafe](https://www.yelp.com/biz/pedros-brazil-cafe-berkeley-2)
 Their tri-tip beef and cilantro garlic sauce are amazing. They have a food stand a block from campus, but there's also a sit-down version further down University.
 
+![Brazil Cafe]({{ "/media/2016-05-22/brazil.jpg" | prepend:site.baseurl }})
+
 ### [Cheese Board Pizza](https://www.yelp.com/biz/cheese-board-pizza-berkeley) and [Sliver](https://www.yelp.com/biz/sliver-pizzeria-berkeley-2)
 Obligatory. Delicious vegetarian pizza. Sliver has a bar and TVs showing sports, while Cheeseboard has live music and a bread/cheese shop.
 
