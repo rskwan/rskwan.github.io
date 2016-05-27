@@ -79,6 +79,8 @@ Both of these are a bit far (Spoon is far west, Bowl'd is on Solano Ave and tech
 ### [Jayakarta](https://www.yelp.com/biz/jayakarta-restaurant-berkeley) (Indonesian)
 This is the place to go for Southeast Asian food. Service can be somewhat slow, but the food is great. I especially like their nasi lemak.
 
+![Jayakarta]({{ "/media/2016-05-22/jayakarta.jpg" | prepend:site.baseurl }})
+
 ### [KoJa Kitchen](https://www.yelp.com/biz/koja-kitchen-berkeley) (Korean/Japanese)
 Korean-Japanese fusion shop, known for their KoJas (sandwiches with rice buns instead of bread), which are cool but kind of expensive. I usually get one of the bowl combos.
 
