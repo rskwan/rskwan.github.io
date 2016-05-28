@@ -122,7 +122,9 @@ Their main feature is the funnel cakes. Guilty pleasure, but they're so, so deli
 ![Endless Summer Sweets]({{ "/media/2016-05-22/endlesssummer.jpg" | prepend:site.baseurl }})
 
 ### [Gregoire](https://www.yelp.com/biz/gregoire-berkeley)
-Take-out French food. Great if you have a place to sit down or are willing to walk and eat.
+Take-out French food. Great if you have a place to sit down or are willing to walk and eat, though there is limited seating outside.
+
+![Gregoire]({{ "/media/2016-05-22/gregoire.jpg" | prepend:site.baseurl }})
 
 ### [Ike's Love and Sandwiches](https://www.yelp.com/biz/ikes-place-berkeley-3)
 The sandwich I had (the Telegraph) was great; it's a shame that they opened right after I graduated.
