@@ -132,9 +132,10 @@ I've compiled my reviews of PMT in and around Atlanta, from the summer of 2014,
 
 ### Bay Area
 
-I attended the Boba Festival at San Jose State University, and tweeted a
+* I attended the Boba Festival at San Jose State University, and tweeted a
 set of reviews. Here's the [Storify summary](https://storify.com/ronaldskwan/sjsu-boba-festival)
-of this particular adventure. I plan to put up more SFBA reviews in the future!
+of this particular adventure.
+* I wrote up a post about [tea near the UC Berkeley campus]({{ "/blog/berkeley-tea" | prepend:site.baseurl }}).
 
 ### Pittsburgh
 
