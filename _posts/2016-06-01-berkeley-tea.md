@@ -45,7 +45,7 @@ Go to U-Cha if Asha is too far, or if you really want some of the random topping
 U-Cha isn't a big place, but it has about the same number of accessible power outlets as Asha, so it's convenient if you want to sit there all day. The shop has a pretty simple, clean design that doesn't particularly stand out. The music (and sometimes other patrons, but mostly the music) can be pretty loud, which is kind of annoying.
 
 * Fruit tea: Decent, though it's unclear if there's much actual fruit. (Personal favorites: jade lime, lychee, kumquat.)
-* Milk tea: At least you can tell that they use actual tea. I usually get the roasted oolong, occasionally with tofu pudding, which is a nice combination.
+* Milk tea: At least you can tell that they use actual tea, and probably actual milk. I usually get the roasted oolong, occasionally with [tofu pudding](https://en.wikipedia.org/wiki/Douhua).
 * Creama tea: I like them. I've only tried the salty creama with green and oolong teas, but I was pretty satisfied. Nothing special, but satisfactory.
 
 ![U-Cha, lemon kumquat green tea]({{ "/media/2016-06-01/ucha_lemonkumquatgreen.jpg" | prepend:site.baseurl }})
@@ -63,10 +63,10 @@ _Oolong Creama Tea_
 ### 3: [Sharetea](http://www.yelp.com/biz/sharetea-berkeley)
 Artificial stuff, but better artificial stuff than most of the other tea shops around campus. For some reason, it's pretty popular. (Maybe because it's closer to the dorms than Asha or U-Cha.)
 
-Like U-Cha, it's not a big place, and doesn't have many power outlets. It can get pretty crowded after student events or right after class, but finding seats during off hours isn't hard.
+Sharetea has about the same amount of seating as and fewer power outlets than U-Cha, though it's fine if you sit here for maybe an hour or less. It can get pretty crowded after student events or right after class, but finding seats during off hours isn't hard.
 
-* Fruit tea: Like U-Cha, the fruit teas are reasonable enough if you get less sugar, but the fruit flavors may or may not result from actual fruits being used (at least on site). I don't get these enough here, so I don't have any particular recommendations.
-* Milk tea: I'm not willing to believe they use actual milk; they taste really weird with less sugar. (Personal favorites, when I'm willing to up my sugar intake: brown rice, high mountain.)
+* Fruit tea: Like U-Cha, the fruit teas are reasonable enough if you get less sugar, but the fruit flavors may or may not result from actual fruits being used (at least on site). I don't get these enough here, so I don't have any particular recommendations. 
+* Milk tea: I'm not willing to believe they use actual milk; these drinks taste really weird with little sugar. (Personal favorites, when I'm willing to up my sugar intake: brown rice, high mountain.)
 * Creama teas: I prefer salty creamas, which Sharetea doesn't offer, but the sweet creamas are OK. The quality depends a lot on your base tea.
 
 ![Sharetea, milk tea]({{ "/media/2016-06-01/sharetea_mt.jpg" | prepend:site.baseurl }})
@@ -77,7 +77,7 @@ These are unranked due to not having tried enough teas or not having many option
 
 ### [85C Bakery Cafe](http://www.yelp.com/biz/85c-bakery-cafe-berkeley-6)
 
-In addition to bread, pastries, and cakes, they have drinks! Asha is right across the street, and is significantly better for tea, so I usually don't bother with tea here. The sea salt teas are pretty interesting (your mileage may vary), which is what landed 85 on this list. That being said, the milk tea is disgusting and the fruit tea is mediocre. (Apparently the sea salt coffee is quite popular, but I don't do coffee. Sorry!)
+In addition to bread, pastries, and cakes, they have drinks! Asha is right across the street, and is significantly better for tea, so I usually don't bother with tea here. The sea salt teas are pretty interesting (your mileage may vary, but I like them), which is what landed 85 on this list. Be warned that the milk tea is disgusting and the fruit tea is mediocre. (Apparently the sea salt coffee is quite popular, but I don't do coffee. Sorry!)
 
 ### [Heat Cafe](http://www.yelp.com/biz/heat-cafe-berkeley-2)
 I'm a fan of their Hong Kong milk tea. Their cold version has a ton of ice which really waters it down (though I haven't tried asking for no ice), but if you get it hot, it's great. They're a restaurant, so they don't serve much else that's relevant to this post, but that one drink is a solid choice if you're hungry as well.
@@ -94,9 +94,9 @@ This shop just opened up in the last few weeks, so I haven't visited very much. 
 
 ## Not Recommended
 
-Common reasons: too artificial, too bland, too milky (for milk teas), too sugary, or too close to better alternative (which I have listed when possible).
+Common reasons: too artificial, too bland, too milky (for milk teas), too sugary, or too close to a better alternative (which I have listed when possible).
 
-* _723 Tea Station_: Walk to Sharetea.
+* _723 Tea Station_: Walk to Sharetea (it's really close).
 * _Boba Ninja_: Walk to Sharetea (or Sweetheart for the cheap PMT).
 * _Bobo Drinks_: Walk to Asha.
 * _Bubble Tea Share Time_: Walk to Asha.
