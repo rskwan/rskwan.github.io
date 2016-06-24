@@ -8,6 +8,10 @@ most of which involve web development in Python and/or JavaScript.
 
 ## Recent (2014-present)
 
+### Atomic Grader
+
+Core developer of exam grading software.
+
 ### [Berkeley Math Tournament](http://bmt.berkeley.edu)
 
 Redesigned the website using ZURB's Foundation front-end framework. Leading development of registration, grading, and problem submission systems, written in Python using Django.

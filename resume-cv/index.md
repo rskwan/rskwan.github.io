@@ -1,16 +1,15 @@
 ---
-title: R&eacute;sum&eacute;/CV
+title: R&eacute;sum&eacute;
 layout: page
 ---
 
-Last updated on 2016-04-03.
+Last updated on 2016-06-23.
 
-* [CV [PDF]]({{ "RonaldKwanCV.pdf" | prepend:site.baseurl }})
 * [R&eacute;sum&eacute; [PDF]]({{ "RonaldKwanResume.pdf" | prepend:site.baseurl }})
 
 ## Classes Taken
 
-### UC Berkeley (2012-present)
+### UC Berkeley (2012-2016)
 
 | Class      | Title (abbreviated)         | Instructor(s)              |
 |------------|-----------------------------|----------------------------|
@@ -30,8 +29,10 @@ Last updated on 2016-04-03.
 | Math H110  | Honors Linear Algebra       | Holtz                      |
 | Math 104   | Real Analysis               | Fuchs                      |
 | Math H113  | Honors Abstract Algebra     | Glick                      |
+| Math 128A  | Numerical Analysis          | Strain                     |
 | Math 185   | Complex Analysis            | Liu                        |
 | Math 202A  | Topology and Analysis       | Rieffel                    |
+| Stat 133   | Computing with Data         | Lucas                      |
 | Stat 134   | Concepts of Probability     | Song                       |
 | Stat 135   | Concepts of Statistics      | Stoyanov                   |
 | Stat 150   | Stochastic Processes        | Sly                        |
