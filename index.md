@@ -11,7 +11,9 @@ playing video games, and watching anime.
 
 ## Highlights
 
-* You can find links to some of the projects I've worked on on the
+* Aside from classwork, internships, and research, I've worked on and off on
+a variety of web development projects (mostly written in Python and JavaScript),
+most of which are described on my
 <a href="{{ "/projects" | prepend:site.baseurl }}">projects page</a>.
 
 * I've done some data analysis on my blog, on subjects including
