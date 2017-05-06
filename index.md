@@ -3,17 +3,16 @@ title: Home
 layout: page
 ---
 
-Hi, I'm Ronald. I recently graduated from UC Berkeley, earning a Bachelor's
-degree with majors in computer science, mathematics, and statistics.
-I spend much of my unproductive time cooking or eating food, finding or drinking
-<a href="{{ "/pmt" | prepend:site.baseurl }}">pearl milk tea</a>,
-playing video games, and watching anime.
+Hi, I'm Ronald. I'm a full-stack web developer at
+<a href="http://www.prepscholar.com/">PrepScholar</a>, in Cambridge, MA.
+I graduated from UC Berkeley in May 2016 with a Bachelor's
+degree in computer science, mathematics, and statistics.
 
 ## Highlights
 
-* Aside from classwork, internships, and research, I've worked on and off on
-a variety of web development projects (mostly written in Python and JavaScript),
-most of which are described on my
+* Outside of my employment and schooling, I've worked on and off on a
+variety of web development projects (mostly written in Python and
+JavaScript). Most of these are described on my
 <a href="{{ "/projects" | prepend:site.baseurl }}">projects page</a>.
 
 * I've done some data analysis on my blog, on subjects including

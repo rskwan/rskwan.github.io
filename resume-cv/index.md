@@ -3,7 +3,7 @@ title: R&eacute;sum&eacute;
 layout: page
 ---
 
-Last updated on 2016-06-23.
+Last updated on 2017-05-06.
 
 * [R&eacute;sum&eacute; [PDF]]({{ "RonaldKwanResume.pdf" | prepend:site.baseurl }})
 
