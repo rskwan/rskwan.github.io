@@ -3,7 +3,8 @@ title: Home
 layout: page
 ---
 
-Hi, I'm Ronald. I'm a full-stack web developer at
+Hi, I'm Ronald. I'm a master's student at UChicago studying data analysis
+and public policy, as well as a full-stack web developer at
 <a href="http://www.prepscholar.com/">PrepScholar</a>, in Cambridge, MA.
 I graduated from UC Berkeley in May 2016 with a Bachelor's
 degree in computer science, mathematics, and statistics.

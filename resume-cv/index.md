@@ -13,7 +13,7 @@ Last updated on 2019-10-16.
 
 | Class      | Title (abbreviated)         | Instructor(s)              |
 |------------|-----------------------------|----------------------------|
-| PPHA 30800 | Analytical Politics         | DeNero                     |
+| PPHA 30800 | Analytical Politics         | Dziuda                     |
 | PPHA 32300 | Microeconomics I            | Coleman                    |
 | PPHA 38720 | Urban Economics             | Ierulli                    |
 
