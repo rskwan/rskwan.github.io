@@ -3,8 +3,12 @@ title: About
 layout: page
 ---
 
-I was an undergraduate student at [UC Berkeley](http://www.berkeley.edu/)
-studying computer science, mathematics, and statistics.
-I spend much of my unproductive time cooking or eating food, finding or drinking
-[pearl milk tea](https://en.wikipedia.org/wiki/Bubble_tea),
-and watching anime.
+I'm a master's student studying data analysis and public policy at the
+[University of Chicago](http://www.uchicago.edu).
+
+As an undergraduate at [UC Berkeley](http://www.berkeley.edu/),
+I majored in computer science, mathematics, and statistics.
+
+I spend much of my unproductive time eating food, drinking
+[pearl milk tea](https://en.wikipedia.org/wiki/Bubble_tea), and
+consuming Japanese music, often at concerts.

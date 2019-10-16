@@ -3,11 +3,19 @@ title: R&eacute;sum&eacute;
 layout: page
 ---
 
-Last updated on 2017-05-06.
+Last updated on 2019-10-16.
 
 * [R&eacute;sum&eacute; [PDF]]({{ "RonaldKwanResume.pdf" | prepend:site.baseurl }})
 
 ## Classes Taken
+
+### University of Chicago (2019-present)
+
+| Class      | Title (abbreviated)         | Instructor(s)              |
+|------------|-----------------------------|----------------------------|
+| PPHA 30800 | Analytical Politics         | DeNero                     |
+| PPHA 32300 | Microeconomics I            | Coleman                    |
+| PPHA 38720 | Urban Economics             | Ierulli                    |
 
 ### UC Berkeley (2012-2016)
 
